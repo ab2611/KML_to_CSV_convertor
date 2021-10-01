@@ -1,6 +1,6 @@
 # KML_to_CSV_convertor
                
-## Idea Behind it
+## Idea Behind It
 ###           In today life almost all the people is travelling to some unknown or known place                                                    
 ###           and most of the time they need nevigation and mostly prefer google map for navigation.                                                          
 ###           So as lots of people is travelling there are lots of reasearch and project going on in                                   
@@ -13,7 +13,9 @@
 
 ##            Library Use                    
             -> Pandas
-            -> beautifulShop
+            -> BeautifulSoup                       
+            -> pykml                                               
+ 
 
 ##            input -:                                                                         
             ->KML File                                        
